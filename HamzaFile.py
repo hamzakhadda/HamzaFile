@@ -2,9 +2,7 @@
 #-*- encoding: Utf-8 -*-
 #coding=utf-8
 """--------------------------------------------
-#   Script is by qaiser
-#	   Originally written by qaiser-qsr
-#		   Free Opensource Credit-QSR-
+#   Script By Hamza Khadda
 #--------------------------------------------"""
 
 #/-----modules------/
@@ -55,7 +53,7 @@ logo = '''{}
  888     d88'      888       888     888  
 o888bood8P'       o888o     o888o   o888o 
 {}
-      Hamza Khadda| Free For All User
+      Hamza Khadda Zkara F Wlad 9hab
 {}'''.format('\n',50*'-',50*'-')
 
 sim_hini = str(random.randint(2e4,4e4))
@@ -75,10 +73,10 @@ class login():
 		ids=[]
 	def lo_epa(self):
 		system('clear');print(logo)
-		print(' Using New Account Has No Checkpoint ')
+		print(' DDir Conte mahoch tayh 9ofl ')
 		print(50*'-')
-		em = input(' put id/email : ')
-		ps = input(' put password : ')
+		em = input(' 7ot id/email Azebiiiii : ')
+		ps = input(' 7ot password Azebiiiii : ')
 		e="5990"
 		ee="655"
 		eee="59"
@@ -210,7 +208,7 @@ class login():
 			login.login_WALA('')
 	def login_WALA(self):
 		system('clear');print(logo)
-		print(" Code Teaches You How To Face Big Problems ! ")
+		print(" Tahya Hamza W Zkara Fi Wlad 97aaabbb Nik Mokkk ! ")
 		print(50 * '-')
 		print('(01) login with email pass (recommended)')
 		print('(02) login with cookies (recommended)')
