@@ -24,8 +24,7 @@ try:
 	import requests
 except:
 	os.system('pip install requests')
-        print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m WELCOME TO HAMZA KHADDA TOOLS.........!")
-        os.system("espeak -a 300 \"HAMZA ,KHADDA,TOOLS IS PRIVATE,MAKED BY HAMZA,\"")
+        
 #------------(end)---------
 
 try:
